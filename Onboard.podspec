@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Onboard"
-  s.version      = "2.3.1"
+  s.version      = "2.3.2"
   s.summary      = "Create a beautiful and engaging onboarding experience with only a few lines of code."
   s.homepage     = "https://github.com/mamaral/Onboard"
   s.license      = "MIT"
