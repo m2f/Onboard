@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "Mike Amaral" => "mike.amaral36@gmail.com" }
   s.social_media_url   = "http://twitter.com/MikeAmaral"
   s.platform     = :ios
-  s.source       = { :git => "https://github.com/mamaral/Onboard.git", :tag => "v2.3.1" }
+  s.source       = { :git => "https://github.com/m2f/Onboard.git", :branch => "master" }
   s.source_files  = "Source/OnboardingViewController.{h,m}", "Source/OnboardingContentViewController.{h,m}"
   s.requires_arc = true
   s.ios.deployment_target = '8.0'
